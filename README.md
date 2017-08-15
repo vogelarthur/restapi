@@ -20,6 +20,11 @@ For install, use the commands above.
 >     $ cd restapi/
 >     $ composer install --no-interaction
 
+For the Database, you need run the "restapi.sql" in your mysql base.
+The username and password for this application is "root".
+
+For change the config of database you need to change in "app/config/parameters.yml'
+
 Usage
 -----
 
