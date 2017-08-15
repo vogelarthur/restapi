@@ -27,7 +27,7 @@ There is no need to configure a virtual host in your web server to access the ap
 Just use the built-in web server:
 
 ```bash
-$ cd symfony_demo/
+$ cd restapi/
 $ php bin/console server:run
 ```
 
